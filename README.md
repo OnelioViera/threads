@@ -16,4 +16,4 @@ Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 ```
 
 ## Install Dependencies
-1. Clerk: `npm install @clerk/nextjs`
+1. [Clerk](https://clerk.com/): `npm install @clerk/nextjs`
