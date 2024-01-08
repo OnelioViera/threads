@@ -22,4 +22,5 @@ Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 
 ## Update the following files 
 - `globals.css` and `tailwind.config.ts` using the links below.
+
 [globals.css](https://github.com/OnelioViera/threads/blob/master/app/globals.css) and [tailwind.config.ts](https://github.com/OnelioViera/threads/blob/master/tailwind.config.ts)
