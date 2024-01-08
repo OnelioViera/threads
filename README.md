@@ -15,5 +15,6 @@ Ok to proceed? (y)
 Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 ```
 
-## Install Dependencies
-1. [Clerk](https://clerk.com/): `npm install @clerk/nextjs`
+## Install Dependence Packages
+1. [Clerk](https://clerk.com/), [Mongoose](https://mongoosejs.com/), [svix](https://www.svix.com/), [uploadthing](https://www.npmjs.com/package/@uploadthing/react): `npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing`
+
