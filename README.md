@@ -18,3 +18,5 @@ Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 ## Install Dependence Packages
 1. [Clerk](https://clerk.com/), [Mongoose](https://mongoosejs.com/), [svix](https://www.svix.com/), [uploadthing](https://www.npmjs.com/package/@uploadthing/react): `npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing`
 
+2. [Tailwindcss Animation](https://tailwindcss.com/docs/animation#class-reference): `npm install tailwindcss-animate`
+
