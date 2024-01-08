@@ -1,4 +1,4 @@
-# Next.js 14 App
+# Next.js 14 App - Threads
 
 ## Install Next.js 
 `npx create-next-app@latest ./`
