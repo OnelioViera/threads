@@ -15,12 +15,15 @@ Ok to proceed? (y)
 Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 ```
 
-## Install Dependence Packages
+### Install Dependence Packages
 1. [Clerk](https://clerk.com/), [Mongoose](https://mongoosejs.com/), [svix](https://www.svix.com/), [uploadthing](https://www.npmjs.com/package/@uploadthing/react): `npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing`
 
 2. [Tailwindcss Animation](https://tailwindcss.com/docs/animation#class-reference): `npm install tailwindcss-animate`
 
-## Update the following files 
+### Update the following files 
 - `globals.css` and `tailwind.config.ts` using the links below.
 
 [globals.css](https://github.com/OnelioViera/threads/blob/master/app/globals.css) and [tailwind.config.ts](https://github.com/OnelioViera/threads/blob/master/tailwind.config.ts)
+
+### Create Route Groups - Example
+![image](./src/route-group-organisation.avif)
