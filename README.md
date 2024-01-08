@@ -26,4 +26,4 @@ Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 [globals.css](https://github.com/OnelioViera/threads/blob/master/app/globals.css) and [tailwind.config.ts](https://github.com/OnelioViera/threads/blob/master/tailwind.config.ts)
 
 ### Create Route Groups - Example
-<img src="./src/route-group-organisation.avif" alt="route-groups" width="400">
+<img src="./src/route-group-organisation.avif" alt="route-groups" width="500">
