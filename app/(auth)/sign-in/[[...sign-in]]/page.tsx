@@ -1,9 +1,5 @@
-async function Page() {
-    return (
-        <main>
-        <h1 className="head-text">Sign In</h1>
-        </main>
-    )
-}
+import { SignIn } from "@clerk/nextjs";
 
-export default Page;
+export default function Page() {
+    return <SignIn />;
+}
