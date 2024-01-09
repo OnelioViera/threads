@@ -27,3 +27,8 @@ Creating a new Next.js app in C:\Users\ojvwe\OneDrive\Desktop\threads.
 
 ### Create Route Groups Example
 <img src="./src/route-group-organisation.avif" alt="route-groups" width="700">
+Create two folders within the app folder and move the current page.tsx and layout.tsx files into the (root) folder.
+
+1. `(auth)` and `(root)`
+
+<img src="./src/routes.jpg">
